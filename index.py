@@ -1,0 +1,2 @@
+x = "büşra"
+print(x)
